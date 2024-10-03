@@ -1,5 +1,6 @@
 package loops;
 import java.util.Scanner;
+/*given two number need to find their greatest commom divisor */
 public class gcd {
     public static int GCD(int a,int b){
         int gcd=1;
