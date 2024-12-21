@@ -1,7 +1,7 @@
 package arrays;
 
 import java.util.Scanner;
-
+/*Wap to find second largest element in array */
 public class secmax {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);

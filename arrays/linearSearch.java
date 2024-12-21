@@ -1,7 +1,7 @@
 package arrays;
 
 import java.util.Scanner;
-
+/*given an element X.Find whether the X is present in array or not using Linear Search */
 public class linearSearch {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);

@@ -1,7 +1,7 @@
 package arrays;
 
 import java.util.Scanner;
-
+/* wap to find doublet whoose sum is equal to target sum */
 public class doublet {
     public static int doublet(int arr[],int k){
         int count=0;

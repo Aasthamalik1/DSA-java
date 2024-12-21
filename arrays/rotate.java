@@ -1,7 +1,7 @@
 package arrays;
 
 import java.util.Scanner;
-
+/*Wap to rotate an array by k steps */
 public class rotate {
     public static void reverse(int arr[],int start,int end){
         int i=start;

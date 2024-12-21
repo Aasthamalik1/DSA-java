@@ -1,7 +1,7 @@
 package arrays;
 
 import java.util.Scanner;
-
+/*reverse an array without using an extra array */
 public class reverse {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);

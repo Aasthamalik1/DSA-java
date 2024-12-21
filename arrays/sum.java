@@ -1,6 +1,6 @@
 package arrays;
 import java.util.Scanner;
-
+/*write a code to find some of all elements of array */
 public class sum {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
