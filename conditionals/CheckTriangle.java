@@ -1,5 +1,6 @@
 package conditionals;
-/*given the sides of triangle.check weather the given sides form a valid triangle or not.if they form then find its type{equilateral,isoceles,scalene} */
+/*given the sides of triangle.check weather the given sides form a valid triangle or not.
+if they form then find its type{equilateral,isoceles,scalene} */
 import java.util.Scanner;
 public class CheckTriangle {
     public static void checkTriangle(int s1,int s2,int s3){

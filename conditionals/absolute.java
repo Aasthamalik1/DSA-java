@@ -1,7 +1,7 @@
 package conditionals;
 
 import java.util.Scanner;
-
+//given an integer.Find its absolute value
 public class absolute {
     public static int Absolute(int n){
         if(n>=0){

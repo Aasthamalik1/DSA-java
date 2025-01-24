@@ -1,7 +1,7 @@
 package conditionals;
 
 import java.util.Scanner;
-
+//given a number.Find that whether it is divisible by both 3 and 5
 public class isDivisible {
     public static boolean check(int n){
             if(n%3==0&&n%5==0){

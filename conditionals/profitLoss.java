@@ -1,7 +1,7 @@
 package conditionals;
 
 import java.util.Scanner;
-
+/* find whether the transaction is profitable,loss or neutral based on CP and SP */
 public class profitLoss {
     public static void profitloss(int cp,int sp){
         if(cp>sp){

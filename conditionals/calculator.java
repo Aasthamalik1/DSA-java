@@ -1,7 +1,7 @@
 package conditionals;
 
 import java.util.Scanner;
-
+/*design a calculator using switch case */
 public class calculator {
     public static void calc(char ch,int a,int b){
         switch(ch){
